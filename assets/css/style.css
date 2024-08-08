@@ -19,7 +19,7 @@ header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* i deleted the class seo because doesn't have functionality */
 header h1 {
     color: #d9dcd6;
 }
