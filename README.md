@@ -33,7 +33,11 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-    ![alt text](Assets/images/screenshot.JPG)
+    ![alt text](assets/images/screenshot.png)
+
+    GitHub report: <a href="https://github.com/danielsantana9824/HoriseonBootcampCode"></a>
+    
+    
   
 ## Credits
 
